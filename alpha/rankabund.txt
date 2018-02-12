@@ -1,0 +1,216 @@
+
+*** 1 ***
+
+RAD models, family poisson 
+No. of species 1415, total abundance 18743
+
+           par1       par2     par3    Deviance AIC      BIC     
+Null                                   18227.30 22812.91 22812.91
+Preemption  0.0061888                  13405.35 17992.97 17998.22
+Lognormal   1.0178     1.7809            800.82  5390.44  5400.95
+Zipf        0.097169  -0.92296          2142.68  6732.30  6742.81
+Mandelbrot  0.4325    -1.1958   5.9449   500.85  5092.46  5108.23
+
+*** 10 ***
+
+RAD models, family poisson 
+No. of species 1150, total abundance 19110
+
+           par1       par2     par3   Deviance AIC     BIC    
+Null                                  19122.5  23021.5 23021.5
+Preemption  0.0078806                 13438.7  17339.6 17344.7
+Lognormal   1.2136     1.8004          1086.7   4989.7  4999.8
+Zipf        0.10699   -0.93996         2636.9   6539.9  6550.0
+Mandelbrot  0.52012   -1.2395   5.729   581.2   4486.2  4501.3
+
+*** 13 ***
+
+RAD models, family poisson 
+No. of species 952, total abundance 21051
+
+           par1       par2     par3    Deviance AIC      BIC     
+Null                                   16994.95 20440.05 20440.05
+Preemption  0.0095304                   9284.40 12731.50 12736.35
+Lognormal   1.6185     1.7321            506.86  3955.96  3965.68
+Zipf        0.10193   -0.91704          3836.44  7285.53  7295.25
+Mandelbrot  1.5606    -1.429    13.002   661.61  4112.71  4127.29
+
+*** 16 ***
+
+RAD models, family poisson 
+No. of species 1240, total abundance 21068
+
+           par1       par2     par3    Deviance AIC      BIC     
+Null                                   21130.07 25350.27 25350.27
+Preemption  0.0074046                  14518.41 18740.61 18745.73
+Lognormal   1.2295     1.8034           1097.50  5321.70  5331.95
+Zipf        0.10409   -0.93572          3007.87  7232.07  7242.32
+Mandelbrot  0.54137   -1.2441   6.2886   602.88  4829.09  4844.45
+
+*** 17 ***
+
+RAD models, family poisson 
+No. of species 1342, total abundance 19975
+
+           par1       par2    par3    Deviance AIC      BIC     
+Null                                  16985.05 21462.97 21462.97
+Preemption  0.0065381                 10840.44 15320.35 15325.55
+Lognormal   1.2232     1.7292           774.97  5256.89  5267.29
+Zipf        0.090245  -0.9009          3421.23  7903.15  7913.55
+Mandelbrot  1.0666    -1.3437  13.259   383.85  4867.77  4883.37
+
+*** 18 ***
+
+RAD models, family poisson 
+No. of species 1219, total abundance 15001
+
+           par1      par2     par3    Deviance AIC      BIC     
+Null                                   6181.97 10403.16 10403.16
+Preemption  0.005273                   4825.62  9048.80  9053.90
+Lognormal   1.4632    1.4529            299.18  4524.37  4534.58
+Zipf        0.062594 -0.80439          2220.97  6446.16  6456.37
+Mandelbrot  0.94545  -1.2731   21.156   387.15  4614.33  4629.65
+
+*** 19 ***
+
+RAD models, family poisson 
+No. of species 1208, total abundance 17747
+
+           par1      par2    par3    Deviance AIC      BIC     
+Null                                 11075.53 15199.24 15199.24
+Preemption  0.006445                  7043.58 11169.29 11174.39
+Lognormal   1.4029    1.6113           313.67  4441.38  4451.57
+Zipf        0.079259 -0.862           2894.95  7022.66  7032.86
+Mandelbrot  0.92983  -1.2991  14.943   983.77  5113.48  5128.77
+
+*** 20 ***
+
+RAD models, family poisson 
+No. of species 1306, total abundance 11798
+
+           par1       par2     par3    Deviance AIC     BIC    
+Null                                   4489.07  8782.84 8782.84
+Preemption  0.0044273                  4302.68  8598.44 8603.62
+Lognormal   1.242      1.3897           403.10  4700.86 4711.21
+Zipf        0.05642   -0.78421         1359.96  5657.72 5668.07
+Mandelbrot  0.38296   -1.1121   14.256  677.03  4976.80 4992.33
+
+*** 21 ***
+
+RAD models, family poisson 
+No. of species 1391, total abundance 11453
+
+           par1       par2     par3       Deviance AIC      BIC     
+Null                                       6300.05 10761.47 10761.47
+Preemption  0.0041694                      6809.13 11272.56 11277.80
+Lognormal   1.0508     1.4597               917.51  5382.93  5393.41
+Zipf        0.064606  -0.81959              879.63  5345.05  5355.53
+Mandelbrot  0.064606  -0.81959  5.846e-09   879.63  5347.05  5362.77
+
+*** 22 ***
+
+RAD models, family poisson 
+No. of species 1296, total abundance 10419
+
+           par1       par2     par3    Deviance AIC     BIC    
+Null                                   3997.24  8142.66 8142.66
+Preemption  0.0043726                  3944.68  8092.10 8097.26
+Lognormal   1.1423     1.3773           465.03  4614.45 4624.78
+Zipf        0.055818  -0.78126         1202.00  5351.42 5361.75
+Mandelbrot  0.3183     -1.08    12.483  710.10  4861.52 4877.02
+
+*** 23 ***
+
+RAD models, family poisson 
+No. of species 1179, total abundance 15143
+
+           par1       par2     par3        Deviance AIC     BIC    
+Null                                       17308.6  21275.3 21275.3
+Preemption  0.0064368                      16857.5  20826.3 20831.3
+Lognormal   0.9724     1.7907               2189.0   6159.8  6169.9
+Zipf        0.11157   -0.95303               987.7   4958.5  4968.6
+Mandelbrot  0.11157   -0.95303  1.085e-115   987.7   4960.5  4975.7
+
+*** 24 ***
+
+RAD models, family poisson 
+No. of species 1187, total abundance 16737
+
+           par1       par2     par3        Deviance AIC     BIC    
+Null                                       22378.0  26317.9 26317.9
+Preemption  0.0073188                      19735.5  23677.3 23682.4
+Lognormal   0.88566    1.8921               2608.7   6552.5  6562.6
+Zipf        0.12366   -0.98347              1848.0   5791.8  5802.0
+Mandelbrot  0.12366   -0.98347  1.817e-132  1848.0   5793.8  5809.1
+
+*** 25 ***
+
+RAD models, family poisson 
+No. of species 1299, total abundance 15834
+
+           par1       par2     par3        Deviance AIC      BIC     
+Null                                       19381.45 23564.71 23564.71
+Preemption  0.0065131                      17251.43 21436.69 21441.86
+Lognormal   0.79003    1.8636               1503.21  5690.47  5700.81
+Zipf        0.11641   -0.96946               615.59  4802.85  4813.19
+Mandelbrot  0.11641   -0.96946  4.0124e-41   615.59  4804.85  4820.36
+
+*** 26 ***
+
+RAD models, family poisson 
+No. of species 1302, total abundance 10631
+
+           par1       par2    par3        Deviance AIC      BIC     
+Null                                       6818.50 10971.41 10971.41
+Preemption  0.0044809                      7516.08 11670.98 11676.15
+Lognormal   0.99737    1.4911              1271.19  5428.09  5438.43
+Zipf        0.07082   -0.838                893.19  5050.09  5060.44
+Mandelbrot  0.07082   -0.838   1.3392e-40   893.19  5052.09  5067.61
+
+*** 27 ***
+
+RAD models, family poisson 
+No. of species 1284, total abundance 11384
+
+           par1       par2     par3        Deviance AIC     BIC    
+Null                                        7745.7  11864.9 11864.9
+Preemption  0.0048302                       8071.8  12193.0 12198.1
+Lognormal   1.0125     1.5364               1220.3   5343.5  5353.8
+Zipf        0.075265  -0.85226              1049.4   5172.6  5182.9
+Mandelbrot  0.075265  -0.85226  1.1315e-38  1049.4   5174.6  5190.0
+
+*** 28 ***
+
+RAD models, family poisson 
+No. of species 1283, total abundance 12082
+
+           par1       par2     par3        Deviance AIC     BIC    
+Null                                       10329.9  14428.2 14428.2
+Preemption  0.0052402                      10350.8  14451.1 14456.2
+Lognormal   0.92705    1.6306               1618.5   5720.8  5731.1
+Zipf        0.086639  -0.88803              1199.6   5301.9  5312.2
+Mandelbrot  0.086639  -0.88803  3.1034e-55  1199.6   5303.9  5319.4
+
+*** 4 ***
+
+RAD models, family poisson 
+No. of species 1292, total abundance 15698
+
+           par1      par2     par3    Deviance AIC      BIC     
+Null                                  13844.49 18004.01 18004.01
+Preemption  0.006362                  10564.44 14725.97 14731.13
+Lognormal   1.0234    1.7275            752.54  4916.07  4926.39
+Zipf        0.093854 -0.90944          1846.69  6010.22  6020.55
+Mandelbrot  0.35559  -1.154    5.1994   916.06  5081.58  5097.07
+
+*** 8 ***
+
+RAD models, family poisson 
+No. of species 1152, total abundance 15147
+
+           par1       par2     par3    Deviance AIC      BIC     
+Null                                    8510.27 12460.82 12460.82
+Preemption  0.0062073                   6184.32 10136.87 10141.92
+Lognormal   1.3825     1.553             522.70  4477.25  4487.35
+Zipf        0.074943  -0.84522          2410.27  6364.82  6374.92
+Mandelbrot  1.0766    -1.3179   17.196   320.51  4277.06  4292.21

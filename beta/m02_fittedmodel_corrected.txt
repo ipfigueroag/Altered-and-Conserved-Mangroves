@@ -1,0 +1,68 @@
+[1] "\n Variance Inflation Factors "
+      CICE         Na          K         Fe         Mg         pH         Zn 
+840.007359 690.045988  33.220026   5.826987  50.233373   7.337094   9.054994 
+[1] "\n Permutation test - significance of model "
+Permutation test for cca under reduced model
+Permutation: free
+Number of permutations: 999
+
+Model: cca(formula = dfc ~ CICE + Na + K + Fe + Mg + pH + Zn, data = c)
+         Df ChiSquare      F Pr(>F)    
+Model     7   0.94542 5.2687  0.001 ***
+Residual 10   0.25634                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "\n Permutation test - significance of the terms "
+Permutation test for cca under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 999
+
+Model: cca(formula = dfc ~ CICE + Na + K + Fe + Mg + pH + Zn, data = c)
+         Df ChiSquare       F Pr(>F)    
+CICE      1  0.225840  8.8101  0.001 ***
+Na        1  0.168723  6.5819  0.001 ***
+K         1  0.295738 11.5368  0.001 ***
+Fe        1  0.074180  2.8938  0.019 *  
+Mg        1  0.056888  2.2192  0.041 *  
+pH        1  0.057298  2.2352  0.040 *  
+Zn        1  0.066758  2.6042  0.019 *  
+Residual 10  0.256343                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "\n Permutation test - marginal effects "
+Permutation test for cca under reduced model
+Marginal effects of terms
+Permutation: free
+Number of permutations: 999
+
+Model: cca(formula = dfc ~ CICE + Na + K + Fe + Mg + pH + Zn, data = c)
+         Df ChiSquare      F Pr(>F)   
+CICE      1  0.067920 2.6496  0.026 * 
+Na        1  0.094324 3.6796  0.003 **
+K         1  0.073278 2.8586  0.009 **
+Fe        1  0.084968 3.3146  0.019 * 
+Mg        1  0.047964 1.8711  0.084 . 
+pH        1  0.057698 2.2508  0.029 * 
+Zn        1  0.066758 2.6042  0.029 * 
+Residual 10  0.256343                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "\n Permutation test - significance of the axis "
+Permutation test for cca under reduced model
+Marginal tests for axes
+Permutation: free
+Number of permutations: 999
+
+Model: cca(formula = dfc ~ CICE + Na + K + Fe + Mg + pH + Zn, data = c)
+         Df ChiSquare       F Pr(>F)    
+CCA1      1   0.46554 18.1609  0.001 ***
+CCA2      1   0.17136  6.6848  0.001 ***
+CCA3      1   0.12278  4.7896  0.001 ***
+CCA4      1   0.06937  2.7061  0.006 ** 
+CCA5      1   0.05667  2.2106  0.006 ** 
+CCA6      1   0.04114  1.6047  0.077 .  
+CCA7      1   0.01857  0.7246  0.780    
+Residual 10   0.25634                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

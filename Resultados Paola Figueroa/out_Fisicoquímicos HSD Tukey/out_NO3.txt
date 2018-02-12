@@ -1,0 +1,7 @@
+trt	means	M
+NP2	21	a
+NP3	19.9	a
+VC1	5.56333333333333	b
+NP1	1	b
+VC2	0	b
+VC3	0	b

@@ -1,0 +1,7 @@
+La Tabla de Estadisticas de multiples grupos fue generada de la siguiente manera:
+Statistical test: ANOVA
+Post-hoc test: Tukey-Kramer
+Effect size: Eta-squared
+Multiple test correction: Benjamini-Hochberg FDR
+
+q-value filter: 0.05000

@@ -1,0 +1,7 @@
+trt	means	M
+Conserved_Mangrove_2	23.5373383233333	a
+Conserved_Mangrove_1	4.166858875	b
+Conserved_Mangrove_3	3.55014269733333	b
+Altered_Mangrove_2  	2.71942433	b
+Altered_Mangrove_3  	2.44442667	b
+Altered_Mangrove_1  	1.171392375	b

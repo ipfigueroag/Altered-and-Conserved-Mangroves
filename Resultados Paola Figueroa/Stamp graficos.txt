@@ -1,0 +1,6 @@
+PCA de phylums de acuerdo a la rizosfera de la planta fue generada con los siguientes parametros:
+Statistical test: ANOVA
+Post-hoc test: Tukey-Kramer
+Effect Size: Eta-squared
+Multiple Test Correction: Benjamini-Hochberg FDR
+Filtering:Sin filtros

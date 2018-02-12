@@ -1,0 +1,18 @@
+Filtred mode c_l:
+ An OTU was kept when its count was grater than 1 reads in at least 1 libraries
+ - From 33230 OTUs, 8041 OTUs remained
+ - Information: 673771 Total reads; retained: 92.07%; lost: 7.93% 
+ - Taxonomic information:
+    Phylum:  44 	Class:  124 	Order:  267 	Family:  451 	Genus:  821 	OTU:  8041 
+ - dataF.rds -> Counts filtered and normalized - Cumulative-sum scaling normalization (Paulson et. al 2013)
+    
+** Data was successfully prepared! **
+Filtred mode cp_l_0.1:
+ An OTU was kept when its count was grater than 1 reads in at least 3 libraries
+ - From 33230 OTUs, 2767 OTUs remained
+ - Information: 673771 Total reads; retained: 79.33%; lost: 20.67% 
+ - Taxonomic information:
+    Phylum:  34 	Class:  93 	Order:  196 	Family:  322 	Genus:  509 	OTU:  2767 
+ - dataF.rds -> Counts filtered and normalized - Cumulative-sum scaling normalization (Paulson et. al 2013)
+    
+** Data was successfully prepared! **
